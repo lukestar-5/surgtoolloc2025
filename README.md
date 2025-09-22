@@ -12,13 +12,12 @@ git clone https://github.com/lukestar-5/surgtoolloc2025.git
 ## References
 This repository owes its existence to the exceptional contributions of other projects:
 
-- [https://github.com/open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)
-- [https://github.com/open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
 - [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
 - [https://github.com/open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo)
+- [https://github.com/facebookresearch/mae](https://github.com/facebookresearch/mae)
+- [https://github.com/botaoye/OSTrack](https://github.com/botaoye/OSTrack)
 
 Many thanks to their invaluable contributions.
-
 
 
 
